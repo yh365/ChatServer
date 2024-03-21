@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Youngil\\source\\repos\\ChatServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A16E2D0-49F5-4449-9675-20632600AB17}|cserver\\cserver.vcxproj|C:\\Users\\Youngil\\source\\repos\\ChatServer\\cserver\\chat_server.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A16E2D0-49F5-4449-9675-20632600AB17}|cserver\\cserver.vcxproj|solutionrelative:cserver\\chat_server.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D26DD2-BCB3-46C3-99A2-EABBD0B95E9B}|cclient\\cclient.vcxproj|C:\\Users\\Youngil\\source\\repos\\ChatServer\\cclient\\chat_client.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6D26DD2-BCB3-46C3-99A2-EABBD0B95E9B}|cclient\\cclient.vcxproj|solutionrelative:cclient\\chat_client.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "chat_client.c",
+              "DocumentMoniker": "C:\\Users\\Youngil\\source\\repos\\ChatServer\\cclient\\chat_client.c",
+              "RelativeDocumentMoniker": "cclient\\chat_client.c",
+              "ToolTip": "C:\\Users\\Youngil\\source\\repos\\ChatServer\\cclient\\chat_client.c",
+              "RelativeToolTip": "cclient\\chat_client.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-21T04:53:29.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "chat_server.c",
+              "DocumentMoniker": "C:\\Users\\Youngil\\source\\repos\\ChatServer\\cserver\\chat_server.c",
+              "RelativeDocumentMoniker": "cserver\\chat_server.c",
+              "ToolTip": "C:\\Users\\Youngil\\source\\repos\\ChatServer\\cserver\\chat_server.c",
+              "RelativeToolTip": "cserver\\chat_server.c",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAC4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-21T04:53:13.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
